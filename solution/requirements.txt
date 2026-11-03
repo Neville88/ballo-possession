@@ -1,0 +1,4 @@
+# Pinned dependencies for solution/. Tested under Python 3.13.1.
+# The solution needs numpy only; the organisers' scorer additionally needs pandas.
+numpy==2.3.3
+pandas==2.3.3
