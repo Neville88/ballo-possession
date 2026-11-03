@@ -62,3 +62,8 @@ __pycache__/
 venv/
 env/
 .DS_Store
+
+# Our review exports are derived from the match data -- never publish them
+evaluation/review/
+evaluation/reports/
+evaluation/scoreboard.csv
